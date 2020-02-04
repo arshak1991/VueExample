@@ -1,7 +1,7 @@
 # VueExample
 
- cd VueExample
- yarn or npm i
- yarn serve
+# cd VueExample
+# yarn or npm i
+# yarn serve
     or
- npm run serve
+# npm run serve
